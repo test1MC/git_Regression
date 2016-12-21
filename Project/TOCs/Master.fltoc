@@ -2,56 +2,40 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Getting Started/Getting Started.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Getting Started/Basic Steps.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Getting Started/Whats New.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/B_Links and Lists/LinksAndLists.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Links.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/B_Links and Lists/Lists.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/D_Images/Images.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Images/ThumbnailImage.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Images/Positioned Images.htm">
+      Title="[%=System.LinkedTitle%]">
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/D_Images/ImagePositionedLeft.htm" />
+        Title="[%=System.LinkedTitle%]" />
       <TocEntry
-        Title="[%=System.LinkedTitle%]"
-        Link="/Content/D_Images/ImagePositionedRight.htm" />
+        Title="[%=System.LinkedTitle%]" />
     </TocEntry>
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/D_Images/ImageWithinList.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm">
+    Title="[%=System.LinkedTitle%]">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/Conditions.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+      Title="[%=System.LinkedTitle%]" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C_Conditions Notes Tables/Tables.htm" />
+      Title="[%=System.LinkedTitle%]" />
   </TocEntry>
 </CatapultToc>
